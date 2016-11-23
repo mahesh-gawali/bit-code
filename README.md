@@ -1,2 +1,3 @@
 # bit-code
 coders repository
+hi, this is new opportunity to learn and explore......
